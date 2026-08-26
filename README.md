@@ -34,6 +34,7 @@ The project included:
 * Testing the combined mapping system in both simulation and real environments
 
 ## System Architecture
+<img align="right" width="1224" height="852" alt="rob2" src="https://github.com/user-attachments/assets/95eb80e8-b883-49b9-a2e1-cd1cd5f2d851" />
 
 The repository contains two main components:
 
