@@ -71,11 +71,13 @@ The combined configuration produced improved 2D maps compared with RTAB-Map alon
 
 ### Simulation Mapping
 
-*Add existing simulation comparison image here.*
+<img width="616" height="416" alt="sim_comp" src="https://github.com/user-attachments/assets/998233fa-75f4-4460-8a2f-819880d6ab45" />
+
 
 ### Real Environment Mapping
 
-*Add existing real-environment comparison image here.*
+<img width="621" height="289" alt="real_comp" src="https://github.com/user-attachments/assets/a0db85f3-39c8-4cdf-8491-cb9f41581176" />
+
 
 ## Technologies
 
