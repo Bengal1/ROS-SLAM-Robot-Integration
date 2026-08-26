@@ -34,8 +34,6 @@ The project included:
 * Testing the combined mapping system in both simulation and real environments
 
 ## System Architecture
-<img align="right" width="1110" height="852" alt="rob1" src="https://github.com/user-attachments/assets/55a0899b-3052-4575-8ffa-5e4a0cb6e454" />
-
 
 The repository contains two main components:
 
@@ -52,7 +50,7 @@ The setup was designed around:
 * Gmapping
 
 ### `purebot` — Simulation
-
+<img align="right" width="300" alt="rob1" src="https://github.com/user-attachments/assets/55a0899b-3052-4575-8ffa-5e4a0cb6e454" />
 Contains the Gazebo-based robot simulation environment.
 
 The simulation reproduces an aircraft-cabin environment and allows the SLAM configuration to be tested without requiring the physical robot.
