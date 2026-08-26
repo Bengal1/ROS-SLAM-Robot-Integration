@@ -192,13 +192,17 @@ Combining RTAB-Map with Gmapping improved the quality of the 2D occupancy map us
 Videos demonstrating the project are available through the [project's YouTube channel](https://www.youtube.com/channel/UCwc1qD5aTrj4iaxQrpZu07w).
 
 ## Related Work
+## Related Publications:
+The project was informed by research in: Simultaneous Localization and Mapping, Grid-based SLAM, Nonlinear state estimation, Robot navigation and collision avoidance.
 
-The project was informed by research in:
+[1] Guillaume Bresson, Zayed Alsayed, Li Yu, Sébastien Glaser. Simultaneous Localization and Mapping: A Survey of Current Trends in Autonomous Driving. IEEE Transactions on Intelligent Vehicles,Institute of Electrical and Electronics Engineers, 2017, XX, pp.1. 10.1109/TIV.2017.2749181. hal-01615897.
 
-* Simultaneous Localization and Mapping
-* Grid-based SLAM
-* Nonlinear state estimation
-* Robot navigation and collision avoidance
+[2] Giorgio Grisetti, Cyrill Stachniss, Wolfram Burgard, "Improving Grid-based SLAM with Rao-Blackwellized Particle Filters by Adaptive Proposals and Selective Resampling".
+
+[3] Eric A. Wan and Rudolph van der Merwe, " The Unscented Kalman Filter for Nonlinear Estimation", Oregon Graduate Institute of Science & Technology 20000 NW Walker Rd, Beaverton, Oregon 97006.
+
+[4] Dieter Foxy Wolfram Burgardy Sebastian Thrun, "The Dynamic Window Approach to Collision Avoidance", Dept. of Computer Science III, University of Bonn, D-53117 Bonn, Germany, Dept. of Computer Science, Carnegie Mellon University, Pittsburgh, P A 15213
+
 
 Relevant publications include work by Bresson et al. on SLAM, Grisetti et al. on grid-based SLAM, Wan and van der Merwe on the Unscented Kalman Filter, and Fox et al. on the Dynamic Window Approach.
 
