@@ -55,7 +55,7 @@ Contains the Gazebo-based robot simulation environment.
 
 The simulation reproduces an aircraft-cabin environment and allows the SLAM configuration to be tested without requiring the physical robot.
 
-<img align="right"  height="250" alt="rob1" src="https://github.com/user-attachments/assets/55a0899b-3052-4575-8ffa-5e4a0cb6e454" /> <img  height="350" alt="rob2" src="https://github.com/user-attachments/assets/1d3ace90-d9d9-4440-8a08-a9042712fec0" />
+<img align="right" height="250" alt="rob1" src="https://github.com/user-attachments/assets/55a0899b-3052-4575-8ffa-5e4a0cb6e454" /> <img align="center" height="250" alt="rob2" src="https://github.com/user-attachments/assets/1d3ace90-d9d9-4440-8a08-a9042712fec0" />
 
 ## SLAM Approach
 
