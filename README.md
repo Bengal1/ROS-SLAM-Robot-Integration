@@ -189,7 +189,7 @@ Combining RTAB-Map with Gmapping improved the quality of the 2D occupancy map us
 
 ## Project Videos
 
-Videos demonstrating the project are available through the project's YouTube channel.
+Videos demonstrating the project are available through the [project's YouTube channel](https://www.youtube.com/channel/UCwc1qD5aTrj4iaxQrpZu07w).
 
 ## Related Work
 
