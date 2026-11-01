@@ -55,7 +55,8 @@ Contains the Gazebo-based robot simulation environment.
 
 The simulation reproduces an aircraft-cabin environment and allows the SLAM configuration to be tested without requiring the physical robot.
 
-<img align="left" width="30%" alt="rob3" src="https://github.com/user-attachments/assets/505a1597-2036-4dcd-bbd3-b9e4cd0a2830" /><img align="center" width="30%" alt="rob2" src="https://github.com/user-attachments/assets/1d3ace90-d9d9-4440-8a08-a9042712fec0" /><img align="right" width="30%" alt="rob1" src="https://github.com/user-attachments/assets/55a0899b-3052-4575-8ffa-5e4a0cb6e454" /> 
+<img align="left" width="30%" alt="rob3" src="https://github.com/user-attachments/assets/2bc29fdc-1c91-445c-bca2-4c30283f7c83" /><img align="center" width="30%" alt="rob2" src="https://github.com/user-attachments/assets/6d27350d-80b7-48dc-900b-45dbcc52e2c3" /><img align="right" width="30%" alt="rob1" src="https://github.com/user-attachments/assets/f4780cc6-e6bc-46d4-af52-18a77d037347" /> 
+
 ## SLAM Approach
 
 The project combines **RTAB-Map** and **Gmapping**.
